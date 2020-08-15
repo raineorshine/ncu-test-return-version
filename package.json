@@ -1,0 +1,11 @@
+{
+  "name": "ncu-test-return-version",
+  "description": "A module that returns its version.",
+  "version": "0.0.0",
+  "author": {
+    "name": "Raine Revere",
+    "url": "https://github.com/raineorshine"
+  },
+  "main": "index.js",
+  "license": "ISC"
+}
